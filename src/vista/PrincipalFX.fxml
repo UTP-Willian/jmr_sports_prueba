@@ -89,5 +89,6 @@
       </VBox>
       <StackPane id="stack_pane" fx:id="sPane" layoutX="315.0" prefHeight="720.0" prefWidth="965.0" />
       <Label alignment="BASELINE_LEFT" contentDisplay="BOTTOM" prefHeight="50.0" prefWidth="50.0" />
+	  <JFXButton text="Nueva línea para Git">
    </children>
 </AnchorPane>
